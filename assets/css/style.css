@@ -9,14 +9,6 @@
    font-style: normal;
 }
 
-html{
-   scroll-behavior: smooth;
-}
-img{
-   max-width: 100%;
-   display: block;
-}
-
 /* Blok 2 HEADER LATAR BELAKANG */
 header{
       background-image: 
